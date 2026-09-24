@@ -16,4 +16,4 @@ Não será necessário instalar Flask, Django ou bibliotecas externas.
 Arquivos: servidor_rpc.py e cliente_rpc.py.
 
 É necessário ter o python baixado e de preferencia utilizar uma IDE.
-Para Utilizar o arquivo recomendo que baixe o Zip pois já está estruturado para uso, também disponibilizei o uso por copiar o txt... Basica será apenas necessario usar um terminal e executar o programa da calculadora.
+Para Utilizar o arquivo recomendo que baixe o Zip pois já está estruturado para uso, também disponibilizei o uso por copiar o txt... Basica será apenas necessario usar dois terminais (um para cada arquivo py) e executar o programa da calculadora, sendo o primeiro o arquivo server_RCP.py e depois o Client_RCP.py.
